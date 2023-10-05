@@ -1,0 +1,12 @@
+[package]
+name = "mmcli"
+version = "0.1.0"
+edition = "2021"
+license = "CC0-1.0"
+description = "Multimedia Library CLI."
+repository = "https://github.com/modtk/mmlib"
+license-file = "license"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

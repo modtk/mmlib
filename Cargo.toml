@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "mmlib", # MMLIB is the code for MML, Multimedia Library.
+  "mmcli", # MMCLI is the command line interface for MMLIB.
+]
+resolver = "2"

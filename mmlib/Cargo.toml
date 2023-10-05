@@ -1,0 +1,15 @@
+[package]
+name = "mmlib"
+version = "0.1.0"
+edition = "2021"
+license = "CC0-1.0"
+description = "Multimedia Library."
+repository = "https://github.com/modtk/mmlib"
+license-file = "license"
+readme = "readme.md"
+homepage = "https://github.com/modtk/mmlib"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+euclid = "0.22.9"
