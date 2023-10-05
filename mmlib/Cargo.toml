@@ -1,5 +1,6 @@
 [package]
 name = "mmlib"
+authors = ["Modern Toolkit"]
 version = "0.1.0"
 edition = "2021"
 license = "CC0-1.0"
