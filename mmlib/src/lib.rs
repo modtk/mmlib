@@ -1,8 +1,8 @@
 //! # Welcome to the mmlib documentation.
 //! There is a formats module, go to the documentation for that module, and look for desired file types.
 
-#[macro_export]
 /// This macro is used to quickly re-export modules through a list.
+#[macro_export]
 macro_rules! quickmodule {
   () => {};
   ($modname:ident) => {
